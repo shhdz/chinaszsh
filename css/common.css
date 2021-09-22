@@ -709,7 +709,7 @@ p{
 	display: block;
 	width: 60px;
 	height: 50px;
-	background: url(/images/icon_top.png) center center no-repeat;
+	background: url(https://chinaszsh.com/images/icon_top.png) center center no-repeat;
 	background-color: #444;
 	border-radius: 2px;
 	cursor: pointer;
@@ -731,7 +731,7 @@ p{
 	height: 40px;
 	border-radius: 2px;
 	cursor: pointer;
-	background: url(/images/icon_code.png) center center no-repeat;
+	background: url(https://chinaszsh.com/images/icon_code.png) center center no-repeat;
 	background-color: #444;
 	filter:alpha(opacity=70);
 	-moz-opacity:0.7;
