@@ -3,7 +3,7 @@
 #wrapper #head #FocusBG
 {
 	width:100%;
-	height:425px;
+	height:auto;
 }
 .fullSlide {
 	width:100%;
@@ -22,19 +22,19 @@
 }
 .fullSlide .bd li {
 	width:100% !important;
-	height:425px;
+	height:auto;
 	overflow:hidden;
 	text-align:center;
 }
 .fullSlide .bd li a {
 	display:block;
 	width:100%;
-	height:425px;
+	height:auto;
 	}
 .fullSlide .bd img {
 	display:block;
 	width:100% !important;
-	height:425px;
+	height:auto;
 	}
 .fullSlide .hd {
 	width:100%;
