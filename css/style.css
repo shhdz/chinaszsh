@@ -18,8 +18,8 @@
 	overflow:hidden;
 }
 .fullSlide .bd ul {
-	width:100% !important;
-	height:auto!important;
+	width:100%;
+	height:auto;
 }
 .fullSlide .bd li {
 	width:100% !important;
