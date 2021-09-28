@@ -19,7 +19,7 @@
 }
 .fullSlide .bd ul {
 	width:100% !important;
-	height:auto;
+	height:auto!important;
 }
 .fullSlide .bd li {
 	width:100% !important;
