@@ -46,7 +46,10 @@ h3{
 li{
 	list-style-type:none;}
 
-img{border:0;width=100%;-ms-interpolation-mode: bicubic;
+img{border:0;
+    width=100%!important;
+    -ms-interpolation-mode: bicubic;
+    vertical-align: middle;
 	}
 .gray{
 	color:#666666;}
