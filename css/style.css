@@ -8,7 +8,7 @@
 .fullSlide {
 	width:100%;
 	position:relative;
-	height:auto;
+	height:400px;
 	background:#000;
 }
 .fullSlide .bd {
@@ -19,6 +19,7 @@
 }
 .fullSlide .bd ul {
 	width:100%!important;
+	height:auto;
 }
 .fullSlide .bd li {
 	width:100%!important;
@@ -28,10 +29,12 @@
 }
 .fullSlide .bd li a {
 	display:block;
+	width:100%;
 	}
 .fullSlide .bd li a img {
 	display:block;
-	width:100%;
+	width:auto;
+	height:100%;
 	}
 .fullSlide .hd {
 	width:100%;
