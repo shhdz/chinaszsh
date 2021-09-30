@@ -20,14 +20,14 @@
 .fullSlide .bd ul {
 	width:100%!important;
 	height:400px;
+	display: flex!important;
+        justify-content: center;
+        align-items: center;
 }
 .fullSlide .bd li {
 	width:100%!important;
 	height:400px;
-	overflow:hidden;
-        display: flex!important;
-        justify-content: center;
-        align-items: center;}
+	overflow:hidden;}
 .fullSlide .bd li a {
 	display:block;
 	width:100%;
