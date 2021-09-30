@@ -20,9 +20,6 @@
 .fullSlide .bd ul {
 	width:100%!important;
 	height:400px;
-	display: flex!important;
-        justify-content: center;
-        align-items: center;
 }
 .fullSlide .bd li {
 	width:100%!important;
@@ -31,6 +28,9 @@
 .fullSlide .bd li a {
 	display:block;
 	width:100%;
+	display: flex!important;
+        justify-content: center;
+        align-items: center;
 	}
 .fullSlide .bd li a img {
 	display:block;
