@@ -23,7 +23,7 @@
 }
 .fullSlide .bd li {
 	width:100%!important;
-	height:auto;
+	height:400px;
 	overflow:hidden;
 	text-align:center;
 }
@@ -33,8 +33,8 @@
 	}
 .fullSlide .bd li a img {
 	display:block;
-	width:auto;
-	height:100%;
+	width:100%;
+	height:auto;
 	}
 .fullSlide .hd {
 	width:100%;
