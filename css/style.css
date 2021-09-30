@@ -8,7 +8,7 @@
 .fullSlide {
 	width:100%;
 	position:relative;
-	height:500px;
+	height:auto;
 	background:#000;
 }
 .fullSlide .bd {
@@ -22,13 +22,16 @@
 }
 .fullSlide .bd li {
 	width:100%!important;
-	height:500px;
+	height:auto;
 	overflow:hidden;
 	text-align:center;
 }
 .fullSlide .bd li a {
 	display:block;
-	height:500px;
+	}
+.fullSlide .bd li a img {
+	display:block;
+	width:100%;
 	}
 .fullSlide .hd {
 	width:100%;
