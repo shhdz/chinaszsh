@@ -25,8 +25,9 @@
 	width:100%!important;
 	height:400px;
 	overflow:hidden;
-	text-align:center;
-}
+        display: flex;
+        justify-content: center;
+        align-items: center;}
 .fullSlide .bd li a {
 	display:block;
 	width:100%;
