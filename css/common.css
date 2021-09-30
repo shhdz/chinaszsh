@@ -47,6 +47,7 @@ li{
 	list-style-type:none;}
 
 img{border:0;
+    width:100%;
     -ms-interpolation-mode: bicubic;
     text-align: center;
 	}
