@@ -34,7 +34,7 @@
 	}
 .fullSlide .bd li a img {
 	display:block;
-	object-fit: scale-down;
+	object-fit: contain;
 	}
 .fullSlide .hd {
 	width:100%;
@@ -84,7 +84,7 @@
 	left:auto;
 	right:1%;
 	background-position:-6px -137px;}
-@media only screen and (max-width: 855px) and (min-width: 50px) {
+@media only screen and (max-width: 855px) {
 .fullSlide {
 	width:100%;
 	position:relative;
