@@ -34,7 +34,7 @@
 	}
 .fullSlide .bd li a img {
 	display:block;
-	object-fit: contain;
+	object-fit: cover;
 	}
 .fullSlide .hd {
 	width:100%;
