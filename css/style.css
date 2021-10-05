@@ -8,7 +8,7 @@
 .fullSlide {
 	width:100%;
 	position:relative;
-	height:500px;
+	height:400px;
 	background:#000;
 }
 .fullSlide .bd {
@@ -19,11 +19,11 @@
 }
 .fullSlide .bd ul {
 	width:100%!important;
-	height:500px;
+	height:400px;
 }
 .fullSlide .bd li {
 	width:100%!important;
-	height:500px;
+	height:400px;
 	overflow:hidden;}
 .fullSlide .bd li a {
 	display:block;
@@ -31,10 +31,6 @@
 	display: flex!important;
         justify-content: center;
         align-items: center;
-	}
-.fullSlide .bd li a img {
-	display:block;
-	height:500px;
 	}
 .fullSlide .hd {
 	width:100%;
