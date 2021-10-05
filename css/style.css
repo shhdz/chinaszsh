@@ -32,6 +32,10 @@
         justify-content: center;
         align-items: center;
 	}
+.fullSlide .bd li a {
+	display:block;
+	width:100%;
+	}
 .fullSlide .hd {
 	width:100%;
 	position:absolute;
