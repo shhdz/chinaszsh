@@ -109,7 +109,7 @@ p{
 	}
 @media only screen and (max-width: 750px){
 #wrapper #head  .TopInfoBG{
-	height:35px;!important;}
+	height:35px!important;}
 #wrapper #head  .TopInfo .link{
 	line-height:35px!important;}
 #wrapper #head  .TopInfo  a{
