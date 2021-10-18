@@ -352,7 +352,8 @@
 .hjnavC{
  	width:100%;
 	height:620px;
- 	overflow:hidden;}
+ 	overflow:hidden;
+	position:relative;}
 	
 .hjnavleft {
 	WIDTH: 100%;
