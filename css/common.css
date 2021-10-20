@@ -151,9 +151,11 @@ p{
 	}
 #wrapper #head .top .TopLogo .logo{
 }
+@media only screen and (max-width: 800px){
 #wrapper #head .top .TopLogo .logo img {
 	width:100%;
 	height:auto;}
+	}
 	
 
 #wrapper #head .top .TopLogo .tel{
